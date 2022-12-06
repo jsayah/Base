@@ -1,3 +1,3 @@
 # Base
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-pcqnep-n28ppz)
+Base for angular projects with configured cart and store as well as shipping form. 
